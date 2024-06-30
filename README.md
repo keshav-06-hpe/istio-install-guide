@@ -222,7 +222,7 @@ kubectl apply -f n.yaml
 We can see that the nginx pod has the sidecar container injected successfully
 
 ```sh
-k describe pod nginx-65478d76d4-tlbkq     
+kubectl describe pod nginx-65478d76d4-tlbkq     
 
 Name:         nginx-65478d76d4-tlbkq
 Namespace:    default
