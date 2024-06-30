@@ -1,8 +1,8 @@
 # istio-install-guide
 
 Drop Kubeadm and Setup Minikube v1.33 with k8s version v1.23.17
-Install Minikube v1.33 with Kubernetes v1.23.17
-Install Istio 1.11.8 via Istioctl
+<br>Install Minikube v1.33 with Kubernetes v1.23.17
+<br>Install Istio 1.11.8 via Istioctl
 
 ```sh
 wget https://github.com/istio/istio/releases/download/1.11.8/istio-1.11.8-linux-amd64.tar.gz
